@@ -1,0 +1,29 @@
+{
+  "name": "ts-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shotaro-yamashita/ts-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shotaro-yamashita/ts-training/issues"
+  },
+  "homepage": "https://github.com/shotaro-yamashita/ts-training#readme",
+  "devDependencies": {
+    "@types/node": "^13.9.5",
+    "@typescript-eslint/eslint-plugin": "^2.26.0",
+    "@typescript-eslint/parser": "^2.26.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "typescript": "^3.8.3"
+  }
+}
